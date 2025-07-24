@@ -67,5 +67,5 @@ This project served as a hands-on learning experience where I applied:
 
 ## 🔗 Links
 
-- **Live Demo:** [Bankist Website](https://hugolomba.github.io/bankist-app/)
-- **GitHub Repository:** [github.com/hugolomba/bankist-app](https://github.com/hugolomba/bankist-app)
+- **Live Demo:** [Bankist Website](https://hugolomba.github.io/bankist-website/)
+- **GitHub Repository:** [github.com/hugolomba/bankist-app](https://github.com/hugolomba/bankist-website)
